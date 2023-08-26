@@ -67,4 +67,17 @@
 `Cobalt Strike`
 
 # Task 7
+1. When will the engagement end? (MM/DD/YYYY)
+
+`11/14/2021`
+
+2. What is the budget the red team has for AWS cloud cost?
+
+`$1000`
+
+3. Are there any miscellaneous requirements for the engagement? (Y/N)
+
+`N`
+
+# Task 8
 1. 
