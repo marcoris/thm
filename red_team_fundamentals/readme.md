@@ -31,4 +31,13 @@
 `Nay`
 
 # Task 4
+1. What cell is responsible for the offensive operations of an engagement?
+
+`red cell`
+
+2. What cell is the trusted agent considered part of?
+
+`white cell`
+
+# Task 5
 1. 
