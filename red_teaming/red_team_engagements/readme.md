@@ -46,6 +46,25 @@
 `No answer needed`
 
 # Task 6
-1. 
-# Task 5
+1. Read the example CONOPS and answer the questions below.
+
+`No answer needed`
+
+2. Based on customer security posture and maturity, the TTP of the threat group: FIN6, will be employed throughout the engagement.
+
+`No answer needed`
+
+3. How long will the engagement last?
+
+`1 month`
+
+4. How long is the red cell expected to maintain persistence?
+
+`3 weeks`
+
+5. What is the primary tool used within the engagement?
+
+`Cobalt Strike`
+
+# Task 7
 1. 
