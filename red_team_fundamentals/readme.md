@@ -40,4 +40,18 @@
 `white cell`
 
 # Task 5
-1. 
+1. If an adversary deployed Mimikatz on a target machine, where would they be placed in the Lockheed Martin cyber kill chain?
+
+`installation`
+
+2. What technique's purpose is to exploit the target's system to execute code?
+
+`exploitation`
+
+# Task 6
+1. Click the "View Site" button and follow the example engagement to get the flag
+
+`THM{RED_TEAM_ROCKS}`
+
+# Task 7
+1. No answer needed
