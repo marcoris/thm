@@ -31,3 +31,21 @@
 4. Is the red team permitted to attack 192.168.1.0/24? (Y/N)
 
 `N`
+
+# Task 4
+1. Read the above and move on to engagement documentation.
+
+`No answer needed`
+1. Read the above and move on to engagement documentation.
+
+`No answer needed`
+
+# Task 5
+1. Read the above and move on to the upcoming engagement specific tasks.
+
+`No answer needed`
+
+# Task 6
+1. 
+# Task 5
+1. 
